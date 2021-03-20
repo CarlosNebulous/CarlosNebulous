@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.canva.com/design/DAEZU47deaY/rkqW_OYfo-8ORF1jjNxPtQ/view?utm_content=DAEZU47deaY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="cover" />
+<img width="100%" height = "250px" src="https://media-public.canva.com/MADGyed0YTM/4/screen_2x.jpg" alt="cover" />
 </div>
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
