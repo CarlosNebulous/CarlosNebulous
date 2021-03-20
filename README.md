@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F830014-futuristic-banner-background-with-wireframe-terrain&psig=AOvVaw1IvVVNYbU5V5-eTw6D6urZ&ust=1616356066783000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjZrdzRv-8CFQAAAAAdAAAAABAD" alt="cover" />
+<img width="100%" height = "250px" src="https://www.canva.com/design/DAEZU47deaY/rkqW_OYfo-8ORF1jjNxPtQ/view?utm_content=DAEZU47deaY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="cover" />
 </div>
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
