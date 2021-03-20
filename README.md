@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.freepik.com/free-vector/network-mesh-wire-digital-technology-background_10136775.htm#page=1&query=futuristic%20banner&position=4" alt="cover" />
+<img width="100%" height = "250px" src="https://image.shutterstock.com/z/stock-vector-dark-blue-circuit-board-chip-lines-tech-background-technology-vector-banner-design-1703060251.jpg" alt="cover" />
 </div>
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
