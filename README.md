@@ -47,9 +47,7 @@
 
 - 🔭 I’m currently working on on my Raspberry Pi, a simple sneaker bot, a new android app idea and on [my band](https://brotherstillwedie.com/)! :D
 
-
-- 🌱 I’m currently learning Java, Android Studio, web developing and, of course, computer vision 😎😎😎
-
+- 🌱 I’m learning Java, Android Studio, web developing and, of course, computer vision 😎😎😎
 
 - 👯 I’m looking to collaborate on whatever that can sound interesting. Of course, collaborating in an open source project would be a really nice experience! 🥳🥳🥳 
 
